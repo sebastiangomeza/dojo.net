@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "dojo-net-core",
+  "private_key_id": "a8d6a51dce66683d01c1cca414509acf79eb2fe5",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDBLioO6Cq8aO1c\nh8t1+1dC3CoqqtCwh0QCuAe/N08Dyvhc/acnGyHSt1Ue0T7I4bL0XOygx+qNFOoo\ndG0+xuO3Fo008WCOOZ1MnGj72QVf2t7UfueJ2cI4VxRnhwe1Qb134ZiwVSR11O2H\nuP0yv3O2bvJw28rGxb4cjiQRnYjrj8fsAYuZ88n9lycUZLM2kpWkgL/OmR/t4vGP\nvjS9yzLD/lM3ek27XnJxiyi1sLQQd5YfX4gFxUUDgCiSXvnGz0KEVdM0jmgqWlYJ\nDN8CsNVjBkYZvxA4AMlVqv5fLmk18H5hQgMAguP66XuCMIfiusYqdQi4JDhXbfRw\nScpqUU+zAgMBAAECggEAEYZ4H1EVq3ETc40IOsRaBsFFfAhyFUm4NEzwuvqwCuaL\ngJgsZWJTP7QNH1YZTY0YOI4Dk5R/ZVwr4A6r6IGPoAkGN3LccRqt+AjKh2qJT8hh\n5cI7jCh6s7TGr5uy6dE0eJ85RGn8/EmcYO853TQ8MaVADlgKPd0roZiNkiGKDeCd\nPPT7YfZC7yWsrVmqRJzMmJ67EwhkbSl9fhV3NOWi/j5YLiH53ZJgPgUO+pM0IqiI\ncUaG99slG0PjzvMmUva/LKqe15Mj0GBXycrQe4yIr0d2hUWcVZ/+J+V6z6KSoThv\n8B/Vv/7moNWITGahBJsai1VV3peGG40P9tsdqV5/TQKBgQD6v6GPXwZb0gG2mKsT\njhjEaKOj9iaGYG0PqBcj32w2fX2EwonLJME9Y3d4mLlXbJN3K0ShM13Oo5RqfY/3\nh4nlOrETEmZEYkBRoH9AbzuwXAAXHpxC1+1SUj2Vw5ReyvyqQ4vE7Omc+RFwxl8e\nblKqCIOhXJRx+Eul/EctAtD23QKBgQDFOeK3MIBTkIGpcpqH5ljTefBeZsbNEaFB\nqYWj+z9+UKZ2ukF69w2YlmgJxnSQmGixA4VlAfpmD0YYmHsp2vyBM5tXjyiINpTE\nkcbPUsM4SEWYP0Trw5GGpevsyk2Jgv9RdGAcXp7TlKn8ZfbEnpOXfu5yD4az4AUn\n2vq8CmHPzwKBgQDKGKuJV4hTdyakWdYAs9VocAH8Q4d3ZL5iERNdeVTJckk5OGZA\n0cXhyYpgK4+uU7djI/9zgWgJBTS4w6zGT3qnw682dOzyDtJSN+54K27LTMtR1v0Q\nruH7KIe0bmbmI+qS/E/pjx0WxHP3FhtR9o8vth8JbgnC9eFazcM8Fvn/DQKBgEr8\nICOQECo1VebryK8EuB7nTKlHoCwVmN7TKhlXjCNlXHTlicHLrmKmRLX6uxTCrYMn\nmI73upEVG4x8ZM9cEAa7bUNUDZAEWHmIBzOJ/ukmKTeiTnzo5SpxaQqlO+edY58/\nhM8kdnRxIFPzHGhS9kByJQw+tPMsqCkoC4500A1nAoGBAKCYLGwIkRyCkyG75CD+\n8SEHgxgRbm87yBVu58PVLmZwyw80vZDEMphzP6LE88SNAOBhsDH9BXCiivQlDo9g\npBlg8G8J0Kbpi1fRLhPgChSxq5gq3qWozUrgbLyfZ+CMTX/JU8/dmOkJRjlARDXL\nrJmqKi9LtFvQJjlYFq9E8iLk\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-bdhbq@dojo-net-core.iam.gserviceaccount.com",
+  "client_id": "118216115557288901059",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-bdhbq%40dojo-net-core.iam.gserviceaccount.com"
+}
